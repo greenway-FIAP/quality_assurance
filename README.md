@@ -1,4 +1,4 @@
-![Greenway_Text](https://github.com/greenway-FIAP/database/assets/80494196/0b047b0f-e53c-4333-b62d-c77a01f623a0)
+![Greenway_TextGray](https://github.com/greenway-FIAP/quality_assurance/assets/80494196/3e366576-533c-4069-b191-9f9330e3f1a8)
 
 ### Sobre a solução
 O Greenway é uma inovadora plataforma SaaS projetada para auxiliar empresas na gestão de suas operações rumo à sustentabilidade. 
