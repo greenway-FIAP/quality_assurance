@@ -44,3 +44,7 @@ As empresas que utilizam a plataforma recebem **certificações automáticas** e
 - **RM99466** - Marcelo Augusto de Mello Paixão - Development with .NET, DevOps & Cloud Computing e Quality Assurance
 - **RM97967** - Vinicius Oliveira de Almeida - Mastering Database
 - **RM98644** - Thiago Martins Bezerra - Disruptive Architectures (IA)
+
+## Azure DevOps Acesso
+
+[Link do Projeto Azure DevOps](https://dev.azure.com/RM99466/Technos%20-%20Challenge)
